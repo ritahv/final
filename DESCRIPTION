@@ -1,0 +1,14 @@
+Package: ritas
+Type: Package
+Title: SimpleViz
+Version: 0.1.0
+Author: Rita Viramontes
+Maintainer: The package maintainer <rhviramontes@usf.edu>
+Description: A package to make visualizations and correlations easier to make and find
+License: CC0
+Encoding: UTF-8
+LazyData: true
+
+
+
+
